@@ -10,7 +10,7 @@ input {
 }
 
 .bg {
-    background-image: url('https://cdn.lolicon.team/i/img/img-cdn/79059953_p0%20(2).jpg');
+    background-image: url('https://down-cdn.lolicon.team/api/bt_panel/image/79059953_p0.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     position: fixed;
@@ -485,7 +485,7 @@ input {
 	}
 
     .bg {
-        background-image: url('https://cdn.lolicon.team/i/img/img-cdn/95074685_p0.jpg')!important;
+        background-image: url('https://down-cdn.lolicon.team/api/bt_panel/image/FA-DPxJVgAEKV1.jpg')!important;
     }
 
 	.main .login .rlogo {
